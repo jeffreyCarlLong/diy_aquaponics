@@ -1,0 +1,12 @@
+---
+title: "DIY Solar Aquaponics"
+author: "Jeffrey Long"
+format: html
+editor: visual
+---
+
+## DIY Aquaponics
+
+Starting from a fantastic aquaponics video on YouTube, <https://youtu.be/HTq364RwH44?si=uOUxhjAsewHC32uz>
+
+Here are some notes to build a system.
